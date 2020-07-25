@@ -4,3 +4,5 @@ Using satellite images as input we created a time series image stack which was p
 and analyzed to obtain sowing and harvesting periods of crops in our region of interest.
 The types of crop(Kharif, Rabi and zaid) were also derived from the graphs by analyzing 
 crop cycles in a specific time period.
+
+The dataset provided here is already filtered and is a single band NDVI image.
